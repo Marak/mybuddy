@@ -12,13 +12,15 @@ Run your own [https://buddypond.com](https://buddypond.com) offline with a singl
 
 ### Mac OS X
 
--- TODO add download link
+[https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy](https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy)
+
+*Note: You may have to `sudo chmod +x ./mybuddy` in order to run it.*
 
 ### Windows
 
 `windows-x64-10.16.0`
 
--- TODO add download link
+[https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy.exe](https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy.exe)
 
 ## Starting My Buddy
 
