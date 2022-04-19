@@ -26,6 +26,8 @@ After downloading My Buddy, double click the application. This will start My Bud
 
 You can start using Buddy Pond by visiting `https://localhost`
 
+*Note: It's best to run `mybuddy` from the Terminal or Command Prompt if possible.*
+
 ## Compile My Buddy From source 
 
 Would rather just run the source? Awesome!
