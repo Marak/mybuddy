@@ -12,7 +12,6 @@ var certificate = fs.readFileSync(path.resolve(__dirname + '/../sslcert/certific
 var credentials = {key: privateKey, cert: certificate};
 
 let buddyPondPath =  path.join(process.cwd(), 'buddypond');
-let buddyPondAppStorePath =  path.join(process.cwd(), 'buddypond-appstore');
 
 const util = require('util');
 
@@ -32,8 +31,6 @@ const util = require('util');
       limit: '12mb'
     }));
 
-    console.log('Mounting buddyPondAppStorePath HTTP path', buddyPondAppStorePath);
-    app.use('/desktop/apps', express.static(buddyPondAppStorePath));
     console.log('Mounting static HTTP path', buddyPondPath);
     app.use(express.static(buddyPondPath, {
       extensions: ['html', 'htm']
