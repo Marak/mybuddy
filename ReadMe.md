@@ -26,26 +26,7 @@ You can now start using Buddy Pond by visiting `https://localhost`
 
 ## Download My Buddy
 
-### Mac OS X
-
-[https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy](https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy)
-
-*Note: You may have to `sudo chmod +x ./mybuddy` in order to run it.*
-
-### Windows
-
-`windows-x64-10.16.0`
-
-[https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy.exe](https://github.com/Marak/mybuddy/releases/download/v4.20.69/mybuddy.exe)
-
-## Starting My Buddy
-
-After downloading My Buddy, double click the application. This will start My Buddy on port 80 and 443 ( HTTPS / SSL ).
-
-You can start using Buddy Pond by visiting `https://localhost`
-
-*Note: It's best to run `mybuddy` from the Terminal or Command Prompt if possible.*
-
+Binary distributions of `MY BUDDY` are coming in two more weeks.
 
 ### License
 Buddy Pond Copyright (C) 2022 Marak Squires
